@@ -47,10 +47,8 @@ The system is built as an **end-to-end ML application** with model training and 
 ## 📌 Use Cases
 
 -  Students confused about career choices
-
 -  Educational institutes
-
 -  Career counseling platforms
-
 -  AI-based guidance systems
 
+---

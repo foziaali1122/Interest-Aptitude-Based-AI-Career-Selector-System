@@ -12,6 +12,11 @@ The system is built as an **end-to-end ML application** with model training and 
 
 ---
 
+## Screenshot
+[https://github.com/foziaali1122/Interest-Aptitude-Based-AI-Career-Selector-System/blob/main/Movies%20%26%20TV%202_14_2026%205_37_42%20PM.png]
+
+---
+
 ## 🧠 Key Features
 
 - ✅ Interest & aptitude based career prediction  
